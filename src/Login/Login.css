@@ -1,0 +1,32 @@
+.login_container{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-top: 150px; */
+    font-size: large;
+    font-family: 'Times New Roman', Times, sans-serif;
+    background-color: #0f0f0f;
+}
+.Login_form{
+    border: 1px solid;
+    padding: 10px;
+    height: 350px;
+    width: 400px;
+    border: 1px solid;
+    padding: 10px;
+    background-color: #fdfdfd;
+    border-radius: 8px;
+    box-shadow: 0px 0px 20px black;
+    margin-bottom: 50px;
+}
+.Login{
+    background-color: #4CAF50;
+    height: 35px;
+    color: #fdfdfd;
+    text-decoration: none;
+}
+.Login:hover{
+    text-decoration: underline;
+}
